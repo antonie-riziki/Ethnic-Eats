@@ -15,7 +15,6 @@ streamlit-audiorec
 folium
 bcrypt
 captcha
-holehe
 scikit-learn
 bs4
 csv
