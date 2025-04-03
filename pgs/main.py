@@ -101,7 +101,7 @@ with data_loading:
     
     # st.write(df.head())
 
-    with open("./src/food recipe/food_recipe.csv", "rb") as file:
+    with open("./src/food recipe/Food_Recipe.csv", "rb") as file:
         st.download_button(label = 'download csv file', data = file, file_name = "food_recipe.csv")
     
     # st.write('The dataframe has ' + str(df.shape[0]) + ' features and ' + str(df.shape[1]) + ' records')
