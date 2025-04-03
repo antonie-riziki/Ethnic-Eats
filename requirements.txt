@@ -12,4 +12,3 @@ google-generativeai
 bcrypt
 scikit-learn
 bs4
-csv
