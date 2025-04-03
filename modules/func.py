@@ -92,7 +92,7 @@ def generate_otp(length=6):
 # print("Generated OTP:", generate_otp())
 
 def load_dataframe():
-    df = pd.read_csv(r"../src/food recipe/Food_Recipe.csv")
+    df = pd.read_csv(r"./src/food recipe/Food_Recipe.csv")
     return df
 
 
