@@ -14,7 +14,7 @@ import google.generativeai as genai
 
 
 
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 
 
 # from collections import defaultdict, Counter
@@ -95,7 +95,7 @@ with header:
 
 with data_loading:
     # st.subheader('Data Loading and Exploration')
-    df = pd.read_csv(r"../src/food recipe/food_recipe.csv")
+    df = pd.read_csv(r"./src/food recipe/food_recipe.csv")
     # df = load_dataframe()
     
     
