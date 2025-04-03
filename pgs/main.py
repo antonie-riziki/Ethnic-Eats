@@ -14,7 +14,7 @@ import google.generativeai as genai
 
 
 
-# from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
 
 
 # from collections import defaultdict, Counter
