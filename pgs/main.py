@@ -95,7 +95,7 @@ with header:
 
 with data_loading:
     # st.subheader('Data Loading and Exploration')
-    df = pd.read_csv(r"./src/food recipe/food_recipe.csv")
+    df = pd.read_csv(r"./src/food recipe/Food_Recipe.csv")
     # df = load_dataframe()
     
     
