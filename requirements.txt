@@ -4,17 +4,12 @@ python-dotenv
 streamlit_option_menu 
 streamlit_chat
 africastalking
-openai
 seaborn
 requests
 matplotlib
 numpy
 google-generativeai
-streamlit-folium
-streamlit-audiorec
-folium
 bcrypt
-captcha
 scikit-learn
 bs4
 csv
